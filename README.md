@@ -1,0 +1,15 @@
+- src
+  - layout
+    - index.ts # UI 主框架（鉴权之后才能进的）
+  - utils
+    - auth.ts # 权限相关工具文件
+  - router
+    - router.tsx # 路由组件注册
+    - routerMap.tsx # 路由表构建
+    - privateRouter.ts # 权限路由组件
+    - router.ts # 路由组件注册
+  - pages #（下面都是随便弄的，要对自己的需求）
+    - community.tsx # 社区压面
+    - login.tsx # 登录界面
+    - user.ts # 用户界面
+    - book.ts # 书籍列表界面
