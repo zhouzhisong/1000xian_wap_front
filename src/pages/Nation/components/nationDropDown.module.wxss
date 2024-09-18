@@ -1,0 +1,15 @@
+.selectBox {
+  display: flex;
+  align-items: center;
+}
+.selectBox .selectAll {
+  width: 33.333%;
+  height: 48px;
+  display: flex;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  box-shadow: 0 12px 12px rgba(100, 101, 102, 0.12);
+  margin-bottom: 5px;
+}
