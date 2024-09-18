@@ -1,0 +1,4 @@
+.container {
+  background-color: #fff;
+  box-shadow: 0 12px 12px rgba(100, 101, 102, 0.12);
+}
